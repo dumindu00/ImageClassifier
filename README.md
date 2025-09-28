@@ -14,15 +14,7 @@ This project allows you to classify images into different categories by training
 - Extract features from images for machine learning.  
 - Train a LinearSVC classifier to recognize categories.  
 - Test the classifier on new images.  
-- Beginner-friendly code with comments to understand each step.  
-
-## Installation / Usage
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/dumindu00/ImageClassifier.git
-cd ImageClassifier
+- Beginner-friendly code with comments to understand each step.
 
 
 Learning Outcomes
@@ -50,3 +42,13 @@ NumPy
 Contributing
 
 Feel free to fork this repository, improve the classifier, or experiment with different datasets.
+
+## Installation / Usage
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/dumindu00/ImageClassifier.git
+cd ImageClassifier
+
+
